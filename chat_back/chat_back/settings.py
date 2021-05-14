@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'chat_back.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'db',
-        'USER': 'admin',
-        'PASSWORD': 'admin',
-        'HOST': '127.0.0.1',
+        'NAME': 'daohm3k1cmnb33',
+        'USER': 'crdongzmqpwkvg',
+        'PASSWORD': 'dd0e126516cc6b230f9332fd17c4f4af82b480352b749c4e3fe611cb9c217544',
+        'HOST': 'ec2-54-72-155-238.eu-west-1.compute.amazonaws.com',
         'PORT': '5432'
     }
 }
